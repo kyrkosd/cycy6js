@@ -28,7 +28,7 @@ module.exports = {
     'data/static/codefixes/**',
     'dist/**'
   ],
-  overrides: [
+  overrides: [  
     {
       files: ['**/*.ts'],
       parser: '@typescript-eslint/parser',
